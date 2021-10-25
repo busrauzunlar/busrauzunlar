@@ -1,6 +1,6 @@
 # Hi there, I'm Büşra Uzunlar 👋
 
-## :books: I'm a computer programmer and also I'm a student at Bursa Technical University.
+## :books: I'm a computer programmer and also I'm a computer engineering student at Bursa Technical University.
 
 ## 🔭 I learnt about Visual C#, Java and Arduino Programming.
 
