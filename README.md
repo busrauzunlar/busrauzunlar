@@ -1,7 +1,7 @@
-l<h1 align="center">Hi there, I'm Büşra Uzunlar 👋</h1>
+<h1 align="center">Hi there, I'm Büşra Uzunlar 👋</h1>
 
 <p align="center">
-🎓 Computer Programming Graduate @ Gazi University  | 🎓 Computer Engineering Student @ Bursa Technical University  
+🎓 IT Technician | 🎓 Computer Programming Graduate @ Gazi University  | 🎓 Computer Engineering Student @ Bursa Technical University  
 💡 Enthusiastic about AI, Linux, and Embedded Systems  
 🌍 Always curious, always building
 </p>
