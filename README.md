@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Büşra Uzunlar 👋</h1>
+l<h1 align="center">Hi there, I'm Büşra Uzunlar 👋</h1>
 
 <p align="center">
 🎓 Computer Programming Graduate @ Gazi University  | 🎓 Computer Engineering Student @ Bursa Technical University  
